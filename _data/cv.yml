@@ -7,82 +7,143 @@ cv:
   summary: Nuclear R&D engineer conducting a CIFRE doctorate focused on calibration-free Laser-Induced Breakdown Spectroscopy for quantitative uranium isotopic analysis, in collaboration with CEA and Orano.
   
   social_networks:
-    - network: X
-      username: AlbertEinstein
-    - network: GitHub
-      username: example
     - network: LinkedIn
       username: example
 
   address:
-    street: 2712 Broadway St
-    city: San Francisco
-    region: California
-    postalCode: CA 94115
-    countryCode: US
+    street: 125 avenue de Paris
+    city: Chatillon
+    postalCode: 92320
+    countryCode: FR
 
   sections:
     Education:
-      - institution: University of Zurich
-        location: Zurich, Switzerland
-        url: https://www.uzh.ch/
+      - institution: Université Paris-Saclay
+        location: France
+        url: https://www.universite-paris-saclay.fr/
         area: Physics
         studyType: PhD
-        start_date: 1900
-        end_date: 1905
-        score: ""
-        courses: "Theory of Relativity"
+        start_date: 2024
+        end_date: Present
+        #courses: Laser-Induced Breakdown Spectroscopy
         highlights:
-          - Description 1.
-          - Description 2.
+          - EMSLIBS conference 2026
 
-      - institution: Eidgenössische Technische Hochschule
-        location: Zurich, Switzerland
-        area: Physics
-        studyType: Federal teaching diploma
-        start_date: 1896
-        end_date: 1900
-        highlights:
-          - Description 1.
-          - Description 2.
+      - institution: Ecole Normale Supérieure Paris-Saclay
+        location: France
+        area: Biology & Physics
+        studyType: Selective Grande École Program
+        start_date: 2018
+        end_date: 2023
+
+      - institution: Université Paris-Saclay
+        location: France
+        area: Physics, Environment and Processes (PEPS)
+        studyType: Master's Degree (M2)
+        start_date: 2022
+        end_date: 2023
+
+      - institution: Politecnico di Torino
+        location: Turin, Italy
+        area: Physics of Complex Systems
+        #studyType: Master's Program
+        start_date: 2020
+        end_date: 2022
+      
+      - institution: Ecole Polytechnique / Université Paris-Saclay
+        location: Saclay, France
+        #area: Health Biology
+        studyType: Master's Program (M1)
+        start_date: 2019
+        end_date: 2020
+      
+      - institution: Lycée Hoche
+        location: Versailles, France
+        area: Preparatory Classes
+        studyType: Classes Préparatoires
+        start_date: 2015
+        end_date: 2018
+
+      - institution: Lycée Franco-Allemand de Buc
+        location: France
+        studyType: French and German High School Diploma
+        start_date: 2012
+        end_date: 2015
 
     Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
+      - company: Orano
+        position: Nuclear R&D Engineer – CIFRE Doctorate (CEA)
+        location: Châtillon, France
+        start_date: 2024-09
+        end_date: Present
+        summary: Conducting a CIFRE doctoral research project in Physics in collaboration with CEA Saclay (LANIE laboratory).
         highlights:
-          - Relativity
-          - Description 2.
+          - Development of calibration-free Laser-Induced Breakdown Spectroscopy (LIBS) methods.
+          - Quantitative uranium isotopic analysis at atmospheric pressure.
+          - Applications to nuclear waste characterization and decommissioning operations.
 
-      - company: California Institute of Technology
-        position: Visiting Professor
-        location: Pasadena, California, US
-        start_date: 1933
-        end_date: 1933
+      - company: Ordres de Grandeur
+        position: Co-Founder
+        location: Paris, France
+        start_date: 2022-10
+        end_date: Present
+        summary: Creation and development of a science communication platform across social media.
         highlights:
-          - Description 1.
-          - Description 2.
+          - Production of hundreds of short educational science videos.
+          - 128,000 followers and over 40 million cumulative views.
+          - Focus on quantitative reasoning and orders-of-magnitude analysis.
 
-      - company: Kaiser Wilhelm Institute for Physics
-        position: Director
-        location: Berlin, Germany
-        start_date: 1917
-        end_date: 1933
+      - company: ACEPP
+        position: Nuclear Measurement Engineer
+        location: France
+        start_date: 2023-10
+        end_date: 2024-09
+        summary: Engineering missions conducted for Orano in nuclear measurement and spectroscopy.
+        highlights:
+          - Development and implementation of LIBS-based nuclear measurement solutions.
 
-      - company: Karl-Ferdinand University
-        position: Professor of Theoretical Physics
-        location: Prague, Czechoslovakia
-        start_date: 1911
-        end_date: 1917
+      - company: Orano
+        position: R&D Intern – Nuclear Measurement & Decommissioning
+        location: Châtillon, France
+        start_date: 2023-03
+        end_date: 2023-09
+        summary: Master’s thesis internship focused on technological development for nuclear waste management and dismantling.
+        highlights:
+          - Research and development of innovative nuclear measurement solutions.
 
-      - company: University of Zurich
-        position: Associate Professor of Theoretical Physics
-        location: Zurich, Switzerland
-        start_date: 1909
-        end_date: 1911
+      - company: Private Teaching
+        position: Mathematics & Physics Tutor (Preparatory Classes)
+        location: France
+        start_date: 2021-09
+        end_date: 2023-09
+        summary: Individual tutoring in mathematics and physics for students preparing competitive entrance examinations to French Grandes Écoles.
+
+      - company: Institut Pasteur
+        position: Research Intern
+        location: Paris, France
+        start_date: 2019-06
+        end_date: 2019-07
+        summary: Study of DNA methylation of Okazaki fragments in fission yeast (PI: Benoît Arcangioli).
+        highlights:
+          - Cell cycle synchronization.
+          - DNA extraction and purification.
+
+      - company: ENS Paris-Saclay – LBPA Laboratory
+        position: Research Intern
+        location: Cachan, France
+        start_date: 2018-11
+        end_date: 2018-11
+        summary: Study of DNA G-quadruplex structures using proton NMR spectroscopy.
+        highlights:
+          - Supervised by Brahim Heddi.
+
+      - company: INRA
+        position: Research Intern
+        location: Jouy-en-Josas, France
+        start_date: 2015-06
+        end_date: 2015-06
+        summary: Laboratory internship in microbiology.
+
 
     Volunteer:
       - company: People's Climate March
