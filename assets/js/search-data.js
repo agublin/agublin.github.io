@@ -3,8 +3,8 @@ const ninja = document.querySelector('ninja-keys');
 
 // add the home and posts menu items
 ninja.data = [{
-    id: "nav-",
-    title: "",
+    id: "nav-about",
+    title: "about",
     section: "Navigation",
     handler: () => {
       window.location.href = "/";
@@ -384,11 +384,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-",
-          title: '',
+            },},{id: "news-about",
+          title: 'about',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/news/about/";
+              window.location.href = "/";
             },},{id: "news-start-of-my-phd-classical-building-calibration-free-laser-induced-breakdown-spectroscopy-for-quantitative-uranium-isotopic-analysis",
           title: 'Start of my PhD :classical_building: Calibration-free Laser-Induced Breakdown Spectroscopy for quantitative uranium isotopic...',
           description: "",
