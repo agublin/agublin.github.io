@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A long announcement with details
+title: EMSLIBS 2026 Conference
 date: 2015-11-07 16:11:00-0400
 inline: false
 related_posts: false
@@ -10,24 +10,53 @@ Announcements and news can be much longer than just quick inline posts. In fact,
 
 ---
 
-Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptown vinyl kitsch. Four loko meh 8-bit, tousled banh mi tilde forage Schlitz dreamcatcher twee 3 wolf moon. Chambray asymmetrical paleo salvia, sartorial umami four loko master cleanse drinking vinegar brunch. <a href="https://www.pinterest.com">Pinterest</a> DIY authentic Schlitz, hoodie Intelligentsia butcher trust fund brunch shabby chic Kickstarter forage flexitarian. Direct trade <a href="https://en.wikipedia.org/wiki/Cold-pressed_juice">cold-pressed</a> meggings stumptown plaid, pop-up taxidermy. Hoodie XOXO fingerstache scenester Echo Park. Plaid ugh Wes Anderson, freegan pug selvage fanny pack leggings pickled food truck DIY irony Banksy.
+Presentation at EMSLIBS 2026 to showcase my work on uranium isotopic analysis using Laser-Induced Breakdown Spectroscopy (LIBS) at atmospheric pressure.
 
-#### Hipster list
+As part of my CIFRE doctorate conducted jointly between CEA Saclay and Orano, we investigate the exploitation of isotopic shifts in uranium emission lines, along with associated modeling strategies, for the quantification of ²³⁵U enrichment levels.
 
-<ul>
-    <li>brunch</li>
-    <li>fixie</li>
-    <li>raybans</li>
-    <li>messenger bag</li>
-</ul>
+This work was carried out in collaboration with Jean-Baptiste Sirven, Daniel L’Hermite, Camille Theroine, Manon Delarue, and Yacine Toumouch.
 
-Hoodie Thundercats retro, tote bag 8-bit Godard craft beer gastropub. Truffaut Tumblr taxidermy, raw denim Kickstarter sartorial dreamcatcher. Quinoa chambray slow-carb salvia readymade, bicycle rights 90's yr typewriter selfies letterpress cardigan vegan.
+The objective is to contribute to the development of measurement methods tailored to the challenges of nuclear decommissioning and waste management. Preliminary results indicate that certain underexplored transitions show promising potential for isotopic discrimination.
+
+Discussions with the international LIBS community were particularly stimulating. Many thanks to Xueshi Bai and Frederic Pelascini for organizing the conference.
 
 ---
+layout: post
+title: "EMSLIBS 2026"
+date: 2026-01-01
+categories: news
+---
 
-Pug heirloom High Life vinyl swag, single-origin coffee four dollar toast taxidermy reprehenderit fap distillery master cleanse locavore. Est anim sapiente leggings Brooklyn ea. Thundercats locavore excepteur veniam eiusmod. Raw denim Truffaut Schlitz, migas sapiente Portland VHS twee Bushwick Marfa typewriter retro id keytar.
+Presentation at EMSLIBS 2026 to showcase my work on uranium isotopic analysis using Laser-Induced Breakdown Spectroscopy (LIBS) at atmospheric pressure.
 
-> We do not grow absolutely, chronologically. We grow sometimes in one dimension, and not in another, unevenly. We grow partially. We are relative. We are mature in one realm, childish in another.
-> —Anais Nin
+As part of my CIFRE doctorate conducted jointly between CEA Saclay and Orano, we investigate the exploitation of isotopic shifts in uranium emission lines, along with associated modeling strategies, for the quantification of ²³⁵U enrichment levels.
 
-Fap aliqua qui, scenester pug Echo Park polaroid irony shabby chic ex cardigan church-key Odd Future accusamus. Blog stumptown sartorial squid, gastropub duis aesthetic Truffaut vero. Pinterest tilde twee, odio mumblecore jean shorts lumbersexual.
+This work was carried out in collaboration with Jean-Baptiste Sirven, Daniel L’Hermite, Camille Theroine, Manon Delarue, and Yacine Toumouch.
+
+The objective is to contribute to the development of measurement methods tailored to the challenges of nuclear decommissioning and waste management. Preliminary results indicate that certain underexplored transitions show promising potential for isotopic discrimination.
+
+Discussions with the international LIBS community were particularly stimulating. Many thanks to Xueshi Bai and Frederic Pelascini for organizing the conference.
+
+<div style="display:grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap:12px; margin:16px 0;">
+  <figure style="margin:0;">
+    <a href="{{ '/img/Slide intro marche dynamique + regard verspublic photographe.jpeg' | relative_url }}">
+      <img src="{{ '/img/Slide intro marche dynamique + regard verspublic photographe.jpeg' | relative_url }}" alt="EMSLIBS 2026 image 1" style="width:100%; height:auto; border-radius:12px;">
+    </a>
+  </figure>
+
+  <figure style="margin:0;">
+    <a href="{{ '/img/Je montre le pic - Copie.PNG' | relative_url }}">
+      <img src="{{ '/img/Je montre le pic - Copie.PNG' | relative_url }}" alt="EMSLIBS 2026 image 2" style="width:100%; height:auto; border-radius:12px;">
+    </a>
+  </figure>
+
+  <figure style="margin:0;">
+    <a href="{{ '/img/Zoom Arthur.jpeg' | relative_url }}">
+      <img src="{{ '/img/Zoom Arthur.jpeg' | relative_url }}" alt="EMSLIBS 2026 image 3" style="width:100%; height:auto; border-radius:12px;">
+    </a>
+  </figure>
+</div>
+
+<p style="font-size:0.95em; opacity:0.85; margin-top:6px;">
+Click an image to open it in full size.
+</p>
