@@ -33,7 +33,7 @@ I am a Nuclear R&D Engineer currently conducting a CIFRE doctorate with Orano an
 
 My work focuses on calibration-free Laser-Induced Breakdown Spectroscopy (LIBS) for quantitative uranium isotopic analysis at atmospheric pressure. The research contributes to nuclear materials characterization, faster decommissioning operations, and measurement reliability within the nuclear fuel cycle.
 
-In parallel, I founded [*Ordres de Grandeur*](https://ordresdegrandeur.com), a science channel where I produce short videos exploring orders of magnitude and quantitative reasoning to better understand the world. Follow the project on [Instagram](https://instagram.com/...), [TikTok](https://tiktok.com/@...), and [Facebook](https://facebook.com/...).
+In parallel, I founded [**Ordres de Grandeur**](https://ordres-de-grandeur.com), a science channel where I produce short videos exploring orders of magnitude and quantitative reasoning to better understand the world. Follow the project on [Instagram](https://www.instagram.com/ordres.de.grandeur/), [TikTok](https://www.tiktok.com/@ordresdegrandeur), and [Facebook](https://www.facebook.com/people/Ordres-de-Grandeur/100092357955162/).
 
 
 
