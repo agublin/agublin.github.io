@@ -26,7 +26,7 @@ announcements:
 #  limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a Nuclear R&D Engineer currently conducting a CIFRE doctorate with Orano and the CEA.
+I am a Nuclear R&D Engineer currently conducting a CIFRE doctorate with [**Orano**](https://www.orano.group/fr) and the [**CEA**](https://www.cea.fr/).
 
 My work focuses on calibration-free Laser-Induced Breakdown Spectroscopy (LIBS) for quantitative uranium isotopic analysis at atmospheric pressure. The research contributes to nuclear materials characterization, faster decommissioning operations, and measurement reliability within the nuclear fuel cycle.
 
