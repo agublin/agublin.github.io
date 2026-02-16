@@ -1,7 +1,7 @@
 ---
 layout: post
 title: EMSLIBS 2026 Conference
-date: 2026-01-01
+date: 2026-01-27
 inline: false
 related_posts: false
 ---

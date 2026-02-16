@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Arthur Gublin
+subtitle: <style>.page-title { font-size: 3em !important; }</style>
 
 profile:
   align: right
