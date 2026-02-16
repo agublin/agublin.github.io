@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://agublin.github.io//sitemap.xml
+Sitemap: https://agublin.github.io/sitemap.xml
