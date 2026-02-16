@@ -169,13 +169,19 @@ cv:
     Interests:
       - name: Physics
         icon: fa-solid fa-atom
-        #keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+        keywords: "Spectroscopy, Uranium, LIBS, Plasma, Laser, Nuclear, Instrumentation"
       - name: Nuclear Industry
+        keywords: "Nuclear Measurement, Waste, Decomissiong"
         icon: fa-solid fa-radiation
-      - name: Mountaineering
+      - name: Mountains
+        keywords: "Mountaineering, Trekking, Glacier"
         icon: fa-solid fa-mountain
       - name: exploration
+        keywords: "underground, desert, jungle"
         icon: fa-solid fa-compass
+      - name: astronomy
+        keywords: "telescope, astrophysics"
+        icon: fa-solid fa-telescope
 
     #Certificates:
     #  - name: Machine Learning
