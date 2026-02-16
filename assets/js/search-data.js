@@ -433,15 +433,12 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+            },},{id: "news-emslibs-2026-conference",
+          title: 'EMSLIBS 2026 Conference',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
-          description: "",
-          section: "News",},{id: "news-start-of-my-phd-classical-building-calibration-free-laser-induced-breakdown-spectroscopy-for-quantitative-uranium-isotopic-analysis",
+            },},{id: "news-start-of-my-phd-classical-building-calibration-free-laser-induced-breakdown-spectroscopy-for-quantitative-uranium-isotopic-analysis",
           title: 'Start of my PhD :classical_building: Calibration-free Laser-Induced Breakdown Spectroscopy for quantitative uranium isotopic...',
           description: "",
           section: "News",},{id: "projects-project-1",
