@@ -8,7 +8,7 @@ profile:
   image: prof_pic.jpeg
   image_circular: false # crops the image to make it circular
   more_info:
-    <p>Orano</p> 
+    <p>Orano    </p> 
     <p>125 avenue de Paris</p>
     <p>Chatillon, France 92320</p>
 
@@ -37,7 +37,7 @@ In parallel, I founded [**Ordres de Grandeur**](https://ordres-de-grandeur.com),
 ## Curriculum Vitae
 
 - [CV (English)](/cv/) – View my full CV on this website
-- [CV (Français - PDF)](/assets/pdf/cv_fr.pdf) – Télécharger mon CV en français
+- [CV (Français)](/assets/pdf/cv_fr.pdf) – Télécharger mon CV en français
 
 
 
