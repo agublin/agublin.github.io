@@ -426,6 +426,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
+            },},{id: "news-",
+          title: '',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/about/";
             },},{id: "news-start-of-my-phd-classical-building-calibration-free-laser-induced-breakdown-spectroscopy-for-quantitative-uranium-isotopic-analysis",
           title: 'Start of my PhD :classical_building: Calibration-free Laser-Induced Breakdown Spectroscopy for quantitative uranium isotopic...',
           description: "",
