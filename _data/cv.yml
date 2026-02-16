@@ -181,7 +181,7 @@ cv:
         icon: fa-solid fa-compass
       - name: astronomy
         keywords: "telescope, astrophysics"
-        icon: fa-solid fa-telescope
+        icon: fa-solid fa-star
 
     #Certificates:
     #  - name: Machine Learning
