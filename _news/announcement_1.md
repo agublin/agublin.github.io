@@ -5,4 +5,6 @@ inline: true
 related_posts: false
 ---
 
-Start of my doctorate : Laser Induced Breakdowmn Spectroscopy withotu calibration for quantittative isotopic analysis of uranium
+Start of my PhD :classical_building:  
+Calibration-free Laser-Induced Breakdown Spectroscopy for quantitative uranium isotopic analysis
+
