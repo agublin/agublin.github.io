@@ -75,8 +75,8 @@ cv:
       - company: Orano
         position: Nuclear R&D Engineer – CIFRE Doctorate (CEA)
         location: Châtillon, France
-        start_datep 2024-09
-        end_date: Present
+        start_date: 2024-09
+        end_date: present
         summary: Conducting a CIFRE doctoral research project in Physics in collaboration with CEA Saclay (LANIE laboratory).
         highlights:
           - Development of calibration-free Laser-Induced Breakdown Spectroscopy (LIBS) methods.
