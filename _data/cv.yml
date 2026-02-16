@@ -24,7 +24,7 @@ cv:
         area: Physics
         studyType: PhD
         start_date: 2024
-        end_date: Present
+        end_date: present
         #courses: Laser-Induced Breakdown Spectroscopy
         highlights:
           - EMSLIBS conference 2026
@@ -52,7 +52,7 @@ cv:
       
       - institution: Ecole Polytechnique / Université Paris-Saclay
         location: Saclay, France
-        #area: Health Biology
+        area: Physics
         studyType: Master's Program (M1)
         start_date: 2019
         end_date: 2020
@@ -66,6 +66,7 @@ cv:
 
       - institution: Lycée Franco-Allemand de Buc
         location: France
+        area: High School
         studyType: French and German High School Diploma
         start_date: 2012
         end_date: 2015
@@ -74,7 +75,7 @@ cv:
       - company: Orano
         position: Nuclear R&D Engineer – CIFRE Doctorate (CEA)
         location: Châtillon, France
-        start_date: 2024-09
+        start_datep 2024-09
         end_date: Present
         summary: Conducting a CIFRE doctoral research project in Physics in collaboration with CEA Saclay (LANIE laboratory).
         highlights:
@@ -85,7 +86,7 @@ cv:
       - company: Ordres de Grandeur
         position: Co-Founder
         location: Paris, France
-        start_date: 2022-10
+        start_datep 2022-10
         end_date: Present
         summary: Creation and development of a science communication platform across social media.
         highlights:
