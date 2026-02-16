@@ -123,7 +123,7 @@ cv:
         location: Paris, France
         start_date: 2019-06
         end_date: 2019-07
-        summary: Study of DNA methylation of Okazaki fragments in fission yeast (PI: Benoît Arcangioli).
+        summary: "Study of DNA methylation of Okazaki fragments in fission yeast (PI: Benoît Arcangioli)."
         highlights:
           - Cell cycle synchronization.
           - DNA extraction and purification.
